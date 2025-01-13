@@ -11,8 +11,6 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 from datetime import timedelta
 from pathlib import Path
-
-from django.conf.global_settings import STATIC_ROO
 from dotenv import load_dotenv
 import os
 
